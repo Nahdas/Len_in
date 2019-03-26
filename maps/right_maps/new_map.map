@@ -1,0 +1,18 @@
+30
+##start
+start 0 0
+A1 1 1
+A2 2 2
+A3 3 3
+A4 4 4
+A5 5 5
+A6 6 6
+##end
+end 7 7
+start-A1
+A1-A2
+A2-A3
+A3-A4
+A4-A5
+A5-A6
+A6-end
