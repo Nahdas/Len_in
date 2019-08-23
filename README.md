@@ -8,8 +8,12 @@ Fonctionnement :
 -./lem_in < sample_maps/choisissez_une_map_de_test
 Sors la solutions sur la sortie standard
 
+
 -Visualisation :
 ./lem_in -e < sample_maps/choisissez_une_map_de_test
+
 open viz/index.html
+
+
 
 Une page de navigateur s'ouvre avec la visualisation réalisée avec d3.
